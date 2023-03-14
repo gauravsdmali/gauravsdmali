@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-  <p> ### Hi there 👋, I'm Gaurav.</p>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
+  <p> <b>Hi there 👋</b>, I'm Gaurav.</p>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" border-radius= "50%"/>
 </div>
