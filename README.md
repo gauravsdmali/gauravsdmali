@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <p> <b>Hi there 👋</b>, I'm Gaurav.</p>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" border-radius= "50%"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" style="border-radius:50%;"/>
 </div>
